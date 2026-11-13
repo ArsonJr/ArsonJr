@@ -23,8 +23,8 @@ Combat-proven **Senior Defense Systems & Tactical Comms Specialist, Technical Co
 
 | Domain | Platforms, Systems & Capabilities |
 | :--- | :--- |
-| **Unmanned Platforms** | Middle-Strike & Reconnaissance Fixed-Wing UAVs • High-Speed 4-Motor Hybrid C-UAS Interceptors (`200–300 km/h`) • Large & Small Multirotors (`FPV Analog/Digital`, `DJI`, `Autel`) • Unmanned Surface Vessels (`USVs / Boats`) |
-| **Tactical Comms & RF** | Directional Phased-Array IP Radio Systems *(Vendor-Trained in Norway, 2025)* • Multi-Panel Antenna Array Integration *(Denmark)* • TDMA Link Planning • Ground Control Stations (`GCS`) & 3D Radar Target Handoff |
+| **Unmanned Platforms & GCS** | Middle-Strike & Recon Fixed-Wing UAVs • High-Speed 4-Motor Hybrid C-UAS Interceptors (`200–300 km/h`) • Large & Small Multirotors (`FPV`, `DJI`, `Autel`) • Unmanned Surface Vessels (`USVs / Boats`) • User/operator familiarity with `Betaflight`, `INAV`, `QGroundControl (QGC)`, `Mission Planner` & custom C2 links |
+| **Tactical Comms & RF** | Directional Phased-Array IP Radio Systems *(Vendor-Trained in Norway, 2025)* • Multi-Panel Antenna Array Integration *(Denmark)* • Automated GCS Antenna Tracking / Following Systems • TDMA Link Planning & 3D Radar Target Handoff |
 | **Crew Operations & Training** | High-Speed Tactical Navigator (`Co-Pilot`) Vectoring & NFZ Management • Standardized `Pilot & Navigator Crew Callout SOPs` • Full-Cycle International Operator & Technical Instruction *(Senior Lead, Libya)* |
 | **AI System Design & Stack** | AI-Augmented System Architecture (`VOX Server v2.60+` & `VOX Sentinel`) • Working familiarity with `Linux/SSH`, `Docker`, `Python`, `Neo4j`, `ChromaDB`, `Git` & `Raspberry Pi 5` hardware integration |
 
