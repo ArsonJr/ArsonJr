@@ -1,6 +1,6 @@
 # Arsen Zolotarov
 
-**Senior Unmanned Systems Specialist (UAV / C-UAS / USV) • Technical Consultant (FSR) • Systems Integrator & R&D**
+**Senior Unmanned Systems Specialist (UAV / C-UAS / USV) • Technical Consultant (FSR) • Systems Integrator**
 
 📍 Kyiv, Ukraine (Operating across EU, NATO & MENA)  
 ✉️ **[arsenzolotarov96@gmail.com](mailto:arsenzolotarov96@gmail.com)** • 📞 **+380 73 040 0509**  
@@ -11,11 +11,11 @@
 
 ### Executive Overview
 
-Combat-proven **Senior Unmanned Systems Specialist, Technical Consultant (FSR), Systems Integrator, and C-UAS Pilot / Navigator** with 4.5+ years of continuous operational and R&D experience across Europe and the Middle East (**Norway, France, Denmark, Lithuania NATO trials, Qatar, Saudi Arabia, Libya, Ukraine**).
+Combat-proven **Senior Unmanned Systems Specialist, Technical Consultant (FSR), Systems Integrator, and C-UAS Pilot / Navigator** with 4.5+ years of continuous operational and field integration experience across Europe and the Middle East (**Norway, France, Denmark, Lithuania NATO trials, Qatar, Saudi Arabia, Libya, Ukraine**).
 
 - **C-UAS Interceptor Flight Test & Tactical Navigation:** Lead Interceptor Pilot and Tactical Navigator (Co-Pilot) on high-speed **4-motor hybrid C-UAS interceptors** (vertical launch transitioning into **140–150+ km/h** aircraft-style forward flight), operating in manual FPV goggles and via GCS integrated with 3D tactical radar and AI optical target lock.
 - **Unmanned Systems & Phased-Array Comms Integration:** Factory-trained in **Norway (2025)** on directional phased-array IP radio networks and in **France (2026)** on high-speed C-UAS interceptors. Integrated long-range data/video links into **middle-strike & reconnaissance fixed-wing aircraft, large & small multirotor UAVs, and unmanned surface vessels (USVs / boats)** in Ukraine, and configured **multi-panel phased-array antenna setups** in **Denmark**.
-- **Applied R&D & AI System Architecture:** Creator of **VOX Server (`v2.60+`)** and **VOX Sentinel** (private R&D repositories) — a production multi-user AI engineering assistant built on a Multimodal Knowledge Graph (`Neo4j`) and Vector DB (`ChromaDB`) to streamline complex tactical radio and UAV integration, alongside custom hardware field solutions (`Raspberry Pi 5` low-latency FPV-to-GCS HDMI video bridges).
+- **Practical Field Tooling & AI-Assisted Workflows:** Not a traditional software programmer—an operational specialist who actively uses **AI coding agents** and off-the-shelf hardware (`Raspberry Pi 5`) to solve practical problems for field and integration teams (such as building the internal `VOX` technical manual assistant and a low-latency FPV-to-GCS HDMI video bridge).
 
 ---
 
@@ -24,24 +24,20 @@ Combat-proven **Senior Unmanned Systems Specialist, Technical Consultant (FSR), 
 | Domain | Platforms, Systems & Capabilities |
 | :--- | :--- |
 | **Unmanned Platforms** | Middle-Strike & Reconnaissance Fixed-Wing UAVs • High-Speed 4-Motor Hybrid C-UAS Interceptors (`140–150+ km/h`) • Large & Small Multirotors (`FPV Analog/Digital`, `DJI`, `Autel`) • Unmanned Surface Vessels (`USVs / Boats`) |
-| **Tactical Comms & RF** | Directional Phased-Array IP Radio Systems *(Vendor-Trained in Norway)* • Multi-Panel Antenna Array Integration *(Denmark)* • TDMA Link & Slot Planning • Ground Control Stations (`GCS`) & 3D Radar Target Handoff |
+| **Tactical Comms & RF** | Directional Phased-Array IP Radio Systems *(Vendor-Trained in Norway, 2025)* • Multi-Panel Antenna Array Integration *(Denmark)* • TDMA Link Planning • Ground Control Stations (`GCS`) & 3D Radar Target Handoff |
 | **Crew Operations & Training** | High-Speed Tactical Navigator (`Co-Pilot`) Vectoring & NFZ Management • Standardized `Pilot & Navigator Crew Callout SOPs` • Full-Cycle International Operator & Technical Instruction *(Senior Lead, Libya)* |
-| **R&D & AI Architecture** | `VOX Server v2.60+` *(Multimodal Neo4j Knowledge Graph + ChromaDB + Domain Code Linters)* • `VOX Sentinel` *(Autonomous Multi-Agent QA & Red-Teaming)* • `Raspberry Pi 5` Low-Latency Video/Telemetry Bridges • `Linux` / `Docker` |
+| **Field Tooling & AI Usage** | Directing AI coding agents to build practical team tools (`VOX` technical documentation assistant & `VOX Sentinel` checker) • Assembling `Raspberry Pi 5` low-latency FPV-to-GCS video bridges |
 
 ---
 
-### Selected R&D Projects *(Private Repositories — NDA)*
+### Practical Tools Built with AI-Assisted Workflows *(Private Repositories — NDA)*
 
-#### 1. `VOX Server (v2.60+)` — Multimodal AI Engineering Assistant for Tactical Comms & UAV Integration
-Conceived and architected a multi-user engineering platform designed to eliminate bottlenecks when integrating complex phased-array radio systems and unmanned platforms across hundreds of normative manuals, ICDs, pinouts, and API headers:
-- **Multimodal Knowledge Graph (`Neo4j`) & Vector Search (`ChromaDB`):** Indexes normative hardware specifications, pinout diagrams, schematics, and firmware release notes with strict source-authority tracking and blue/green knowledge-base generations.
-- **Domain-Verified Code & Configuration Linters:** Validates TDMA slot allocations, TX group bounds, Site IDs, and Radio Control API calls directly against hardware ground-truth schemas before deployment.
+> *Note: These internal tools were created from a field integrator's perspective by setting domain requirements, hardware rules, and workflows for AI coding agents rather than writing code manually.*
 
-#### 2. `VOX Sentinel` — Autonomous Multi-Agent QA & Red-Teaming Harness
-An external multi-agent evaluation suite (`Adversarial Conversationalist`, `Misinformation Tester`, `Organic User Simulator`, and `Meta-Evaluator`) that stress-tests live `VOX Server` responses against `Neo4j` / `ChromaDB` ground truth to guarantee zero hallucination on hardware specifications.
-
-#### 3. Low-Latency FPV-to-GCS HDMI Video Bridge (`Raspberry Pi 5`)
-Field-engineered a custom hardware/software video bridge during MENA C-UAS deployments (`Qatar`) to stream live analog pilot goggles feeds onto command and Navigator monitors with minimal latency, packaged with automated zero-touch deployment scripts and engineering documentation.
+1. **`VOX` & `VOX Sentinel` — Internal Technical Documentation & Integration Assistant**  
+   Created to stop wasting hours searching across hundreds of pages of phased-array radio and UAV manuals. Guided AI coding agents to build a local knowledge-base server (`VOX`) that finds exact cited specs/pinouts and helps with system integration questions, along with an automated checker (`VOX Sentinel`) to verify that answers match the actual manuals.
+2. **Low-Latency FPV-to-GCS HDMI Video Bridge (`Raspberry Pi 5`)**  
+   Assembled and configured during the Qatar C-UAS deployment to output live analog pilot goggles video onto a large monitor for the Navigator and client team with minimal latency.
 
 ---
 
