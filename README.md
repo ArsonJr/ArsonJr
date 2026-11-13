@@ -1,9 +1,9 @@
 # Arsen Zolotarov
 
-**Senior Unmanned Systems Specialist (UAV / C-UAS / USV) • Technical Consultant (FSR) • Systems Integrator**
+**Senior Defense Systems & Tactical Comms Specialist (C-UAS / UAV / USV) • Technical Consultant (FSR) • Systems Integrator**
 
 📍 Kyiv, Ukraine (Operating across EU, NATO & MENA)  
-✉️ **[arsenzolotarov96@gmail.com](mailto:arsenzolotarov96@gmail.com)** • 📞 **+380 73 040 0509** • 🔗 **[LinkedIn](https://www.linkedin.com/in/arsen-zolotarov-uav/)**  
+✉️ **[arsenzolotarov96@gmail.com](mailto:arsenzolotarov96@gmail.com)** • 📞 **+380 73 040 0509** • 🔗 **[LinkedIn](https://www.linkedin.com/in/arsen-zolotarov-96/)**  
 🇪🇺 **EASA Certified Remote Pilot (A1/A3):** `FRA-RP-000000172914` *(DGAC France, valid through 11/2031)*  
 📄 **[Download Full CV (PDF)](./CV_Arsen_Zolotarov_2026.pdf)**
 
@@ -11,10 +11,10 @@
 
 ### Executive Overview
 
-Combat-proven **Senior Unmanned Systems Specialist, Technical Consultant (FSR), Systems Integrator, and C-UAS Pilot / Navigator** with 4.5+ years of continuous operational and field integration experience across Europe and the Middle East (**Norway, France, Denmark, Lithuania NATO trials, Qatar, Saudi Arabia, Libya, Ukraine**).
+Combat-proven **Senior Defense Systems & Tactical Comms Specialist, Technical Consultant (FSR), Systems Integrator, and C-UAS Pilot / Navigator** with 4.5+ years of continuous operational and field integration experience across Europe and the Middle East (**Norway, France, Denmark, Lithuania NATO trials, Qatar, Saudi Arabia, Libya, Ukraine**).
 
-- **C-UAS Interceptor Flight Test & Tactical Navigation:** Lead Interceptor Pilot and Tactical Navigator (Co-Pilot) on high-speed **4-motor hybrid C-UAS interceptors** (vertical launch transitioning into **140–150+ km/h** aircraft-style forward flight), operating in manual FPV goggles and via GCS integrated with 3D tactical radar and AI optical target lock.
 - **Unmanned Systems & Phased-Array Comms Integration:** Factory-trained in **Norway (2025)** on directional phased-array IP radio networks and in **France (2026)** on high-speed C-UAS interceptors. Integrated long-range data/video links into **middle-strike & reconnaissance fixed-wing aircraft, large & small multirotor UAVs, and unmanned surface vessels (USVs / boats)** in Ukraine, and configured **multi-panel phased-array antenna setups** in **Denmark**.
+- **C-UAS Interceptor Flight Test & Tactical Navigation:** Lead Interceptor Pilot and Tactical Navigator (Co-Pilot) on high-speed **4-motor hybrid C-UAS interceptors** (vertical launch transitioning into aircraft-style forward flight; **flown at 200+ km/h, up to 300 km/h max speed**), operating in manual FPV goggles and via GCS integrated with 3D tactical radar and AI optical target lock.
 - **AI-Augmented System Design & Hardware Prototyping:** Designed and built **VOX Server (`v2.60+`)** and **VOX Sentinel** over several months of intensive AI-augmented engineering (combining deep domain knowledge and working familiarity with `Linux/SSH`, `Docker`, `Python`, `Neo4j`, and `ChromaDB` to direct AI coding agents from architecture to production deployment), alongside practical field hardware solutions (`Raspberry Pi 5` low-latency FPV-to-GCS HDMI video bridge).
 
 ---
@@ -23,7 +23,7 @@ Combat-proven **Senior Unmanned Systems Specialist, Technical Consultant (FSR), 
 
 | Domain | Platforms, Systems & Capabilities |
 | :--- | :--- |
-| **Unmanned Platforms** | Middle-Strike & Reconnaissance Fixed-Wing UAVs • High-Speed 4-Motor Hybrid C-UAS Interceptors (`140–150+ km/h`) • Large & Small Multirotors (`FPV Analog/Digital`, `DJI`, `Autel`) • Unmanned Surface Vessels (`USVs / Boats`) |
+| **Unmanned Platforms** | Middle-Strike & Reconnaissance Fixed-Wing UAVs • High-Speed 4-Motor Hybrid C-UAS Interceptors (`200–300 km/h`) • Large & Small Multirotors (`FPV Analog/Digital`, `DJI`, `Autel`) • Unmanned Surface Vessels (`USVs / Boats`) |
 | **Tactical Comms & RF** | Directional Phased-Array IP Radio Systems *(Vendor-Trained in Norway, 2025)* • Multi-Panel Antenna Array Integration *(Denmark)* • TDMA Link Planning • Ground Control Stations (`GCS`) & 3D Radar Target Handoff |
 | **Crew Operations & Training** | High-Speed Tactical Navigator (`Co-Pilot`) Vectoring & NFZ Management • Standardized `Pilot & Navigator Crew Callout SOPs` • Full-Cycle International Operator & Technical Instruction *(Senior Lead, Libya)* |
 | **AI System Design & Stack** | AI-Augmented System Architecture (`VOX Server v2.60+` & `VOX Sentinel`) • Working familiarity with `Linux/SSH`, `Docker`, `Python`, `Neo4j`, `ChromaDB`, `Git` & `Raspberry Pi 5` hardware integration |
