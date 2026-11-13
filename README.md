@@ -15,7 +15,7 @@ Combat-proven **Senior Unmanned Systems Specialist, Technical Consultant (FSR), 
 
 - **C-UAS Interceptor Flight Test & Tactical Navigation:** Lead Interceptor Pilot and Tactical Navigator (Co-Pilot) on high-speed **4-motor hybrid C-UAS interceptors** (vertical launch transitioning into **140–150+ km/h** aircraft-style forward flight), operating in manual FPV goggles and via GCS integrated with 3D tactical radar and AI optical target lock.
 - **Unmanned Systems & Phased-Array Comms Integration:** Factory-trained in **Norway (2025)** on directional phased-array IP radio networks and in **France (2026)** on high-speed C-UAS interceptors. Integrated long-range data/video links into **middle-strike & reconnaissance fixed-wing aircraft, large & small multirotor UAVs, and unmanned surface vessels (USVs / boats)** in Ukraine, and configured **multi-panel phased-array antenna setups** in **Denmark**.
-- **Practical Field Tooling & AI-Assisted Workflows:** Not a traditional software programmer—an operational specialist who actively uses **AI coding agents** and off-the-shelf hardware (`Raspberry Pi 5`) to solve practical problems for field and integration teams (such as building the internal `VOX` technical manual assistant and a low-latency FPV-to-GCS HDMI video bridge).
+- **AI-Augmented System Design & Hardware Prototyping:** Designed and built **VOX Server (`v2.60+`)** and **VOX Sentinel** over several months of intensive AI-augmented engineering (combining deep domain knowledge and working familiarity with `Linux/SSH`, `Docker`, `Python`, `Neo4j`, and `ChromaDB` to direct AI coding agents from architecture to production deployment), alongside practical field hardware solutions (`Raspberry Pi 5` low-latency FPV-to-GCS HDMI video bridge).
 
 ---
 
@@ -26,18 +26,22 @@ Combat-proven **Senior Unmanned Systems Specialist, Technical Consultant (FSR), 
 | **Unmanned Platforms** | Middle-Strike & Reconnaissance Fixed-Wing UAVs • High-Speed 4-Motor Hybrid C-UAS Interceptors (`140–150+ km/h`) • Large & Small Multirotors (`FPV Analog/Digital`, `DJI`, `Autel`) • Unmanned Surface Vessels (`USVs / Boats`) |
 | **Tactical Comms & RF** | Directional Phased-Array IP Radio Systems *(Vendor-Trained in Norway, 2025)* • Multi-Panel Antenna Array Integration *(Denmark)* • TDMA Link Planning • Ground Control Stations (`GCS`) & 3D Radar Target Handoff |
 | **Crew Operations & Training** | High-Speed Tactical Navigator (`Co-Pilot`) Vectoring & NFZ Management • Standardized `Pilot & Navigator Crew Callout SOPs` • Full-Cycle International Operator & Technical Instruction *(Senior Lead, Libya)* |
-| **Field Tooling & AI Usage** | Directing AI coding agents to build practical team tools (`VOX` technical documentation assistant & `VOX Sentinel` checker) • Assembling `Raspberry Pi 5` low-latency FPV-to-GCS video bridges |
+| **AI System Design & Stack** | AI-Augmented System Architecture (`VOX Server v2.60+` & `VOX Sentinel`) • Working familiarity with `Linux/SSH`, `Docker`, `Python`, `Neo4j`, `ChromaDB`, `Git` & `Raspberry Pi 5` hardware integration |
 
 ---
 
-### Practical Tools Built with AI-Assisted Workflows *(Private Repositories — NDA)*
+### R&D Systems Built via AI-Augmented Engineering *(Private Repositories — NDA)*
 
-> *Note: These internal tools were created from a field integrator's perspective by setting domain requirements, hardware rules, and workflows for AI coding agents rather than writing code manually.*
+#### 1. `VOX Server (v2.60+)` — Multimodal LLM Engineering Advisor for Tactical Comms & UAV Integration
+Designed and iteratively engineered over several months to serve as a full-fledged AI technical advisor (not just a document search tool) for integrating complex directional phased-array radio systems and unmanned platforms:
+- **Multimodal Knowledge Graph (`Neo4j`) & Vector Engine (`ChromaDB`):** Combines semantic reasoning, Vision classification of schematics/pinouts, source-authority hierarchy, and blue/green knowledge-base generations across hundreds of manuals and ICDs.
+- **Engineering Advisory & Domain Validation:** Assists engineers directly with system integration, TDMA slot/link-budget rules, and validates Radio Control API calls and hardware parameters against strict domain constraints.
 
-1. **`VOX` & `VOX Sentinel` — Internal Technical Documentation & Integration Assistant**  
-   Created to stop wasting hours searching across hundreds of pages of phased-array radio and UAV manuals. Guided AI coding agents to build a local knowledge-base server (`VOX`) that finds exact cited specs/pinouts and helps with system integration questions, along with an automated checker (`VOX Sentinel`) to verify that answers match the actual manuals.
-2. **Low-Latency FPV-to-GCS HDMI Video Bridge (`Raspberry Pi 5`)**  
-   Assembled and configured during the Qatar C-UAS deployment to output live analog pilot goggles video onto a large monitor for the Navigator and client team with minimal latency.
+#### 2. `VOX Sentinel` — Autonomous Multi-Agent QA & Red-Teaming Suite
+An external multi-agent testing harness (`Adversarial Conversationalist`, `Misinformation Tester`, `Organic User Simulator`, and `Meta-Evaluator`) designed to stress-test `VOX Server` responses against `Neo4j` / `ChromaDB` ground truth and eliminate hardware specification hallucinations.
+
+#### 3. Low-Latency FPV-to-GCS HDMI Video Bridge (`Raspberry Pi 5`)
+Assembled and deployed during MENA C-UAS trials (`Qatar`) to stream live analog pilot goggles video onto command and Navigator monitors with minimal latency.
 
 ---
 
