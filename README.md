@@ -3,7 +3,7 @@
 **Senior Defense Systems & Tactical Comms Specialist (C-UAS / UAV / USV) • Technical Consultant (FSR) • Systems Integrator**
 
 📍 Kyiv, Ukraine (Operating across EU, NATO & MENA)  
-✉️ **[arsenzolotarov96@gmail.com](mailto:arsenzolotarov96@gmail.com)** • 📞 **+380 73 040 0509** • 🔗 **[LinkedIn](https://www.linkedin.com/in/arsen-zolotarov-96/)**  
+✉️ **[arsenzolotarov96@gmail.com](mailto:arsenzolotarov96@gmail.com)** • 📞 **+380 73 040 0509** • 🔗 **[LinkedIn](https://www.linkedin.com/in/arsen-zolotarov96/)**  
 🇪🇺 **EASA Certified Remote Pilot (A1/A3):** `FRA-RP-000000172914` *(DGAC France, valid through 11/2031)*  
 📄 **[Download Full CV (PDF)](./CV_Arsen_Zolotarov_2026.pdf)**
 
