@@ -25,7 +25,7 @@
 | Domain | Platforms, Systems & Capabilities |
 | :--- | :--- |
 | **Unmanned Platforms & GCS** | Middle-Strike & Recon Fixed-Wing UAVs • 4-Motor Hybrid C-UAS Interceptors (`200–300 km/h class`) • Multirotors (`FPV`, `DJI`, `Autel`) • Unmanned Surface Vessels (`USVs / Boats`) • Operator/user familiarity with `Betaflight`, `INAV`, `QGroundControl (QGC)`, `Mission Planner` & proprietary C2 links |
-| **Tactical Comms & RF** | Directional Phased-Array IP Radio Systems • Multi-Panel Antenna Arrays • Ground-to-Air Automated GCS Antenna Tracking / Target-Following Setups • Radio Link Profile Setup & 3D Radar Target Tracking / Vectoring |
+| **Tactical Comms & RF** | Directional Phased-Array IP Radio Systems • Multi-Panel Antenna Arrays • Ground-to-Air Automated GCS Antenna Tracking / Target-Following Setups • TDMA Link & Throughput Calculation *(incl. custom Excel TDMA calculators)* • 3D Radar Target Tracking & Vectoring |
 | **Crew Operations & Training** | High-Speed Tactical Navigator (`Co-Pilot`) Vectoring & NFZ Boundary Management • Author of Single-Page `Pilot & Navigator Crew Callout Sheets` • Full-Cycle International Operator & Technical Instruction *(Senior Lead, Libya)* |
 | **Field Tooling & AI Workflow** | Practical problem-solving with AI coding tools (`VOX` internal documentation & radio assistant + `VOX Sentinel` test script) • Working familiarity with `Linux/SSH`, `Python` & `Raspberry Pi 5` hardware setups |
 
@@ -34,7 +34,7 @@
 ### Practical Internal Tools & Field Projects *(Private / NDA)*
 
 #### 1. `VOX Server` & `VOX Sentinel` — Internal Engineering Documentation & Integration Assistant
-Built over several months using AI-assisted software development (`LLM coding tools`, `Docker`, `Neo4j`, `ChromaDB`) to solve a practical field-engineering problem: quickly finding verified answers across hundreds of technical radio/UAV manuals, checking radio link parameters and throughput limits, and verifying wiring/API setups, paired with an automated test script (`VOX Sentinel`) to verify answer accuracy.
+Built over several months using AI-assisted software development (`LLM coding tools`, `Docker`, `Neo4j`, `ChromaDB`) to solve a practical field-engineering problem: quickly finding verified answers across hundreds of technical radio/UAV manuals, calculating TDMA radio link parameters and throughput limits, and verifying wiring/API setups, paired with an automated test script (`VOX Sentinel`) to verify answer accuracy.
 
 #### 2. Low-Latency FPV-to-GCS HDMI Video Bridge (`Raspberry Pi 5`)
 Assembled and configured during C-UAS trials in **Qatar** to display live analog pilot goggles video onto command and Navigator monitors with minimal latency.
