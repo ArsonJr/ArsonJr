@@ -46,7 +46,8 @@
 ### Certifications & Education
 
 - **EASA UAS Remote Pilot Certificate — Open Category A1/A3** (`DGAC France`, ID: `FRA-RP-000000172914`, Valid to `11/2031`)
-- **Manufacturer Tactical Phased-Array Comms Course** (`Norway`, 2025) & **C-UAS Flight Evaluation** (`France`, 2026)
+- **Level-3 Master Instructor Certification — Tactical Phased-Array Comms** (`Trondheim, Norway`, Sep 2025, ID: `2025-MI-01-002-JD` — NDA) & **C-UAS Flight Evaluation** (`France`, 2026)
+- **Certified UAV Operations Instructor — 3rd Category (EU Europass ISCED 4, 200 Hours)** (`Alfa-Metal / NAVET Bulgaria`, Jul 2025, Reg. ID: `978-060/24.07.2025`, `NATO NCAGE #015BU`)
 - **Military Training Certificate — SIC Academy, Canada** (`Sep 2024` — *UAV Operations & Planning, Firearms, Tactical*)
 - **UAV Military Application Training — Victory Drones** (`Grade A` — *FPV/DJI, EW Resilience, Kropyva & Delta C2*)
 - **B.Sc. in Engineering / Technical Studies (In Progress, Part-Time / Distance)** — *Zaporizhzhia National Polytechnic University (`2023 – Present`)*
