@@ -11,10 +11,10 @@
 
 ### Professional Summary
 
-**Unmanned Systems Integrator, Field Application Engineer, and Technical Instructor** with 4.5 years of international experience across Europe and the Middle East (**Norway, Denmark, France, Lithuania NATO trials, Ukraine, Libya, Qatar, and Saudi Arabia**).
+**Unmanned Systems Integrator, Field Application Engineer, and Technical Instructor** with 4.5 years of international experience across Europe and the Middle East (**Norway, Denmark, France, Lithuania NATO trials, Ukraine, Libya, and Qatar**).
 
 - **Tactical RF & Phased-Array Integration:** Factory-trained in **Norway (2025)** on directional phased-array IP radio networks. Integrated long-range data/video links onto **fixed-wing UAVs, multirotors, and unmanned surface vessels (USVs — 22 km marine trials)** in **Ukraine**, and configured **multi-panel phased-array antenna stations** in **Denmark**.
-- **Autonomous C-UAS Systems & Flight Validation:** Conducted technical consultations and flight evaluations at the manufacturer's facility in **France (2026)**, and executed live C-UAS field trials in **Qatar, Lithuania (NATO Exercise), and Saudi Arabia** as Pilot and Tactical Navigator on **200–300 km/h hybrid interceptors** (`<1m` radar-vectored and manual FPV air-to-air intercepts).
+- **Autonomous C-UAS Systems & Flight Validation:** Conducted technical consultations and flight evaluations at the manufacturer's facility in **France (2026)**, and executed live C-UAS field trials in **Qatar and Lithuania (NATO Exercise)** as Pilot and Tactical Navigator on **200–300 km/h hybrid interceptors** (`<1m` radar-vectored and manual FPV air-to-air intercepts).
 - **Technical Enablement & Engineering Tooling:** Co-authored Ukrainian phased-array comms training courses, built custom Excel and bilingual HTML/web **TDMA link calculators**, created an internal AI documentation assistant (**`VOX` & `VOX Sentinel`**) with a **41-item OEM engineering discrepancy report** from bench UART/UDP load tests, and built a **`Raspberry Pi Zero 2 W` zero-dropout GCS HDMI video bridge** in Qatar.
 
 ---
