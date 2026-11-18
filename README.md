@@ -46,6 +46,6 @@
 - **EASA UAS Remote Pilot Certificate — Open Category A1/A3** (`DGAC France`, ID: `FRA-RP-000000172914`, Valid to `11/2031`)
 - **Level-3 Master Instructor Certification — Tactical Phased-Array Comms** (`Norway`, Sep 2025 — NDA) & **C-UAS Flight Evaluation** (`France`, 2026)
 - **Certified UAV Operations Instructor — Qualification Level 3 / EU Europass ISCED 4 (200 Hours)** (`Alfa-Metal / NAVET Bulgaria`, Jul 2025, Reg. ID: `978-060/24.07.2025`, `NATO NCAGE #015BU`)
-- **UAV Operations & Mission Planning Certificate — SIC Academy, Canada** (`Sep 2024` — *92-hour certified program*)
+- **UAV Operations & Mission Planning Certificate — SIC Academy, Ontario, Canada** (`Sep 2024`, Reg. ID: `SIC.DEF.01/04-4149` — *92-hour certified program*)
 - **UAV Military Application Training — Victory Drones** (`Grade A` — *FPV/DJI, EW Resilience, Kropyva & Delta C2*)
 - **B.Sc. in Engineering / Technical Studies (In Progress, Part-Time / Distance)** — *Zaporizhzhia National Polytechnic University (`2023 – Present`)*
