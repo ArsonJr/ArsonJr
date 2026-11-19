@@ -1,9 +1,9 @@
 # Arsen Zolotarov
 
-**Unmanned Systems & Tactical RF Integration Specialist • Field Application Engineer (FAE)**
+**Unmanned Systems & Tactical RF Integration Specialist • Field Application Engineer (FAE) • Certified UAS/RF Instructor**
 
 ✉️ **[arsenzolotarov96@gmail.com](mailto:arsenzolotarov96@gmail.com)** • 🔗 **[LinkedIn](https://www.linkedin.com/in/arsen-zolotarov96/)**  
-🇪🇺 **EASA Certified Remote Pilot (A1/A3):** `FRA-RP-000000172914` *(DGAC France, valid through 11/2031)*
+🇪🇺 **EU Europass Certified UAV Instructor (ISCED Level 4, 200h):** `978-060/24.07.2025` *(NATO NCAGE #015BU)* • **EASA Remote Pilot:** `FRA-RP-000000172914`
 
 ---
 
@@ -43,9 +43,9 @@
 
 ### Certifications, Technical Qualifications & Education
 
-- **EASA UAS Remote Pilot Certificate — Open Category A1/A3** (DGAC France, ID: `FRA-RP-000000172914`, Valid to 11/2031)
-- **Level-3 Master Instructor Certification — Tactical Phased-Array RF Communications** (Norway, Sep 2025 — OEM under NDA)
 - **Certified UAV Operations Instructor — Qualification Level 3 / EU Europass ISCED Level 4 Vocational Diploma (200 Hours)** (Alfa-Metal / NAVET Bulgaria, Jul 2025, Reg. ID: `978-060/24.07.2025`, NATO NCAGE `#015BU`)
+- **Level-3 Master Instructor Certification — Tactical Phased-Array RF Communications** (Norway, Sep 2025 — OEM under NDA)
 - **UAV Operations & Mission Planning Certificate — SIC Academy, Ontario, Canada** (Sep 2024, Reg. ID: `SIC.DEF.01/04-4149` — *92-hour certified program*)
+- **EASA UAS Remote Pilot Certificate — Open Category A1/A3** (DGAC France, ID: `FRA-RP-000000172914`, Valid to 11/2031)
 - **UAV Military Application Training — Victory Drones** (Grade A, 2022) • **Military Reconnaissance Course** (74th Recon Battalion) • **Red Cross First Aid / TCCC**
 - **Bachelor of Laws (LL.B., Specialty 081 Law — Part-Time / Extramural)** — *Classic Private University, Zaporizhzhia, Ukraine (Oct 2023 – Jun 2027)*
