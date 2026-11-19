@@ -9,11 +9,11 @@
 
 ### Professional Overview
 
-**Unmanned Systems Integrator, Field Application Engineer, and Technical Instructor** with over 4 years of operational experience in unmanned systems and tactical RF communications, including 2+ years on international projects across Europe and the Middle East (**Norway, Denmark, France, Lithuania, Bulgaria, Ukraine, and Qatar**).
+**Unmanned Systems Integrator, Field Application Engineer, and Technical Instructor** with over 4 years of operational experience in unmanned systems and tactical RF communications, including 2+ years on international projects across Europe and the Middle East (**Norway, Denmark, France, Lithuania, Bulgaria, and Ukraine, plus MENA field deployments**).
 
 - **Tactical RF & Phased-Array Integration:** Factory-trained in **Norway (2025)** (`Level-3 Master Instructor`) on directional phased-array IP radio networks. Integrated long-range data/video links onto **fixed-wing UAVs, multirotors, and unmanned surface vessels (USVs)** during maritime trials in **Ukraine**, and configured **multi-panel phased-array antenna stations** in **Denmark**.
-- **Autonomous C-UAS Systems & Flight Validation:** Conducted technical consultations and flight evaluations at the manufacturer's facility in **France (2026)**, and executed live C-UAS field trials in **Qatar and Lithuania** as Pilot and Tactical Navigator on **200–300 km/h hybrid interceptors** (radar-vectored, optical-lock, and manual FPV air-to-air intercepts).
-- **Technical Enablement & Engineering Tooling:** Co-authored Ukrainian phased-array comms training courses, served as Senior UAV Instructor & Technical Lead with **Alfa-Metal (Gabrovo, Bulgaria — EU Europass ISCED 4 certified)**, built custom Excel and bilingual HTML/web **TDMA link calculators**, created an offline local engineering documentation index with bench `UART/UDP` stress-test validation, and built a **`Raspberry Pi Zero 2 W` zero-dropout GCS HDMI video bridge** in Qatar.
+- **Autonomous C-UAS Systems & Flight Validation:** Conducted technical consultations and flight evaluations at the manufacturer's facility in **France (2026)**, and executed live C-UAS field trials across **France, Lithuania, and MENA field trials** as Pilot and Tactical Navigator on **200–300 km/h hybrid interceptors** (radar-vectored, optical-lock, and manual FPV air-to-air intercepts).
+- **Technical Enablement & Engineering Tooling:** Co-authored Ukrainian phased-array comms training programs (`Level 1`, `Level 2`, and `Micro-tactical` systems), designed a 1-month UAV operator training program and served as Senior UAV Instructor & Technical Lead with **Alfa-Metal (Gabrovo, Bulgaria — EU Europass ISCED 4 certified)**, built custom Excel and bilingual HTML/web **TDMA link calculators**, created an offline local engineering documentation index with bench `UART/UDP` stress-test validation, and built a **`Raspberry Pi Zero 2 W` zero-dropout GCS HDMI video bridge**.
 
 ---
 
@@ -35,9 +35,9 @@
 2. **Multi-Node & Relay TDMA Link Calculators (2025–2026):**  
    Developed custom Excel and bilingual HTML/web TDMA slot-allocation calculators for 2–6 node directional phased-array networks and airborne relays operating under EW interference.
 3. **Zero-Dropout GCS HDMI Video Bridge (`Raspberry Pi Zero 2 W`, 2026):**  
-   Built an embedded Linux video capture bridge during field trials in Qatar that eliminated 3–5s GCS monitor HDMI resync blackouts and held the last clean OSD telemetry frame on RF signal drop.
-4. **Standardized C-UAS `Pilot & Navigator Crew Callout Sheet` & Comms Curriculum (2025–2026):**  
-   Designed a 1-page operational callout standard (standardized NFZ boundary gates and 4-part target vectors) for 2-person high-speed interceptor crews, alongside co-developed 7-day C-UAS operator drills and custom Ukrainian phased-array radio training courses.
+   Built an embedded Linux video capture bridge that eliminated 3–5s GCS monitor HDMI resync blackouts and held the last clean OSD telemetry frame on RF signal drop.
+4. **Standardized C-UAS `Pilot & Navigator Crew Callout Sheet` & Phased-Array Training Programs (2025–2026):**  
+   Designed a 1-page operational callout standard (standardized NFZ boundary gates and 4-part target vectors) for 2-person high-speed interceptor crews, alongside custom Ukrainian Level 1, Level 2, and Micro-tactical phased-array radio training courses.
 
 ---
 
